@@ -12,7 +12,7 @@ is claimed.
 
 ## Install
 
-With Node.js and a compatible skill-enabled agent, run from your project:
+With Node.js 22.20 or later and a compatible skill-enabled agent, run from your project:
 
 ```sh
 npx skills add rotterdam-autonomy-lab/ozynth-agent-skill --skill ozynth
